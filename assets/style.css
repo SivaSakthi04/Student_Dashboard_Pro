@@ -1,0 +1,14 @@
+.stApp{
+    background:#f5f7fb;
+}
+
+h1{
+    color:#0066cc;
+}
+
+div[data-testid="metric-container"]{
+    background:white;
+    border-radius:15px;
+    padding:15px;
+    box-shadow:0px 4px 10px rgba(0,0,0,.1);
+}
